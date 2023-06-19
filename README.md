@@ -13,7 +13,7 @@
 - 🌐  I enjoy competing in Cyberpatriot and CTFs
 - ⚡  Join my CTF club: [Discord](https://discord.gg/sXE7yd67xK)
 - 💻  I also enjoy programming
-- 💭  Feel free to reach out through email (wutwilliam@gmail.com) or discord (reactive#4394)
+- 💭  Feel free to reach out through email (wutwilliam@gmail.com) or discord (reactive1)
 - 🔗  You can also connect on [Linkedin](https://www.linkedin.com/in/william-wu-33bb59202/)
 
 <div align="center">
