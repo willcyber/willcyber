@@ -11,7 +11,6 @@
 
 - 📓   Student at Del Norte
 - 🌐  I enjoy competing in Cyberpatriot and CTFs
-- ⚡  Join my CTF club: [Discord](https://discord.gg/sXE7yd67xK)
 - 💻  I also enjoy programming
 - 💭  Feel free to reach out through email (wutwilliam@gmail.com) or discord (wutwill)
 - 🔗  You can also connect on [Linkedin](https://www.linkedin.com/in/william-wu-33bb59202/)
