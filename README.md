@@ -9,10 +9,10 @@
 
 ### About me 
 
-- 📓   Student at Del Norte
+- 📓   Computer Science Student at the University of California San Diego
 - 🌐  I enjoy competing in Cyberpatriot and CTFs
 - 💻  I also enjoy programming
-- 💭  Feel free to reach out through email (wutwilliam@gmail.com) or discord (wutwill)
+- 💭  Feel free to reach out through email (wiw010@ucsd.edu) or discord (wutwill)
 - 🔗  You can also connect on [Linkedin](https://www.linkedin.com/in/william-wu-33bb59202/)
 
 <div align="center">
