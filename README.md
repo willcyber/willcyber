@@ -13,7 +13,7 @@
 - 💻  Passionate about building impactful software solutions and cybersecurity
 - :airplane:  2x Northrop Grumman intern. Northrop Top Performer (top 3%) + Bravo To Our Stars Award, recognizing exceptional leadership
 - :pencil: Published 2 research papers in CHI '24 and IEEE ISTAS '24
-- 🌐 Achieved 3rd Place Overall at CyberPatriot XVI National Finals & 2nd Place in Cisco Networking Challenge out of over 3,000 teams
+- 🌐 Achieved 3rd Place Overall at CyberPatriot National Finals & 2nd Place in Cisco Networking Challenge out of over 3,000 teams
 - 🚩 OffSec Defense Analyst (OSDA) Certified
 - :blue_car: Uber Global Hackathon: 1st in North America & 2nd globally out of 2,500 teams
 
