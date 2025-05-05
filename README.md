@@ -20,6 +20,7 @@
 ### Contact me
 - 💭 Email: wiw010@ucsd.edu
 - 🔗 [Linkedin](https://www.linkedin.com/in/william-wu-33bb59202/)
+- 🎓 [Google Scholar](https://shorturl.at/CHDpg)
 
 <div align="center">
 
