@@ -11,6 +11,7 @@
 
 - 📓   Computer Science Student at the University of California San Diego
 - 💻  Passionate about building impactful software solutions and cybersecurity
+- SDE co-op intern at Amazon Web Service (AWS)
 - :airplane:  2x Northrop Grumman intern. Northrop Top Performer (top 3%) + Bravo To Our Stars Award (top <1%), recognizing exceptional leadership
 - :pencil: Published 3 research papers in CHI '24, Journal of Microscopy, and IEEE ISTAS '24. 10+ citations
 - 🌐 Achieved 3rd Place Overall at CyberPatriot National Finals & 2nd Place in Cisco Networking Challenge out of over 3,000 teams
