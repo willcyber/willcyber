@@ -11,6 +11,7 @@
 
 - 📓   Computer Science Student at the University of California San Diego
 - 💻  Passionate about building impactful software solutions and cybersecurity
+- Incoming SWE intern at Google
 - 📦 Prev SDE co-op intern at Amazon Web Service (AWS)
 - :airplane:  2x prev Northrop Grumman intern. Northrop Top Performer (top 3%) + Bravo To Our Stars Award (top <1%), recognizing exceptional leadership
 - :pencil: Published 3 research papers in CHI '24, Journal of Microscopy, and IEEE ISTAS '24. 25+ citations and 10,000+ downloads
